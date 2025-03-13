@@ -7,5 +7,6 @@ public class lab005 {
         System.out.println(2/2);
         System.out.println(2*2);
         System.out.println(10/0);
+        System.out.println(10/1);
     }
 }

@@ -9,7 +9,8 @@ public class lab003 {
         /**
          * multiple comment it is
          * used for documentation purpose
-         */
+         *
+         * /
 
 
     }
