@@ -29,7 +29,7 @@ public class lab096 {
         System.out.println("without parameters, without return type");
     }
 
-    static String function_type2(){
+    static String function_type2() {
         System.out.println("without parameters and with return type");
         return "ankita";
     }
