@@ -6,7 +6,7 @@ public class cop2 {
 
 
     private cop2(int gun){
-        this.gun = gun;
+        this.gun2 = gun;
     }
 
     private void canushoot(){
